@@ -1,3 +1,17 @@
+https://www.numberanalytics.com/blog/secure-ota-updates-automotive-systems
+
+https://www.embitel.com/automotive-insights/implementing-automotive-cybersecurity-through-transport-layer-security
+
+https://arxiv.org/abs/2211.12177
+
+https://www.ewadirect.com/journal/aei/article/view/21619
+
+https://www.researchgate.net/publication/355358795_Hash_Algorithm_In_Verification_Of_Certificate_Data_Integrity_And_Security
+
+https://medium.com/@mkklyci/implementing-advanced-secure-diagnostics-with-uds-authentication-service-29h-9b1b9ec762ec
+
+https://medium.com/@mkklyci/implementing-advanced-secure-diagnostics-with-uds-authentication-service-29h-9b1b9ec762ec
+
 https://www.cryptomathic.com/blog/key-management-in-automotive
 
 https://unece.org/sites/default/files/2024-03/R156e%20%282%29.pdf
@@ -11,3 +25,4 @@ https://www.rambus.com/blogs/ota-updates-explained/
 https://uptane.org/docs/2.1.0/standard/uptane-standard
 
 https://www.elektrobit.com/blog/ota-updates-with-adaptive-autosar/
+
