@@ -17,3 +17,6 @@ https://www.sonatus.com/products/updater/
 https://bosch-iot-suite.com/knowledge-center/use-case/software-updates-over-the-air/
 
 https://www.rambus.com/blogs/ota-updates-explained/
+
+https://www.numberanalytics.com/blog/automotive-software-updates-research-methodologies
+
