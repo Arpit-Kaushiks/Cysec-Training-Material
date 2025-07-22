@@ -1,22 +1,11 @@
  https://www.tuvsud.com/en-us/industries/mobility-and-automotive/automotive-and-oem/autonomous-driving/iso-24089
 standard-for-automotive-software-update-engineering
-
  https://www.tuvsud.com/en-us/industries/mobility-and-automotive/automotive-and-oem/autonomous-driving/assessment-of
 automotive-software-updates
-
- https://circleci.com/blog/ci-cd-for-automotive-software-development/
-
-https://www.zvei.org/fileadmin/user_upload/Presse_und_Medien/Publikationen/2016/april/Best_Practice_Guideline__Software_Release/Best-Practice-Guideline-Software-Release-engl-2016.pdf
-
+https://circleci.com/blog/ci-cd-for-automotive-software-development/
 https://www.cyient.com/blog/managing-secure-and-compliant-automotive-software-releases
-
-https://www.nxp.com/docs/en/white-paper/Making-Full-Vehicle-OTA-Updates-Reality-WP.pdf
-
 https://www.sonatus.com/products/updater/
-
 https://bosch-iot-suite.com/knowledge-center/use-case/software-updates-over-the-air/
-
 https://www.rambus.com/blogs/ota-updates-explained/
-
 https://www.numberanalytics.com/blog/automotive-software-updates-research-methodologies
 
